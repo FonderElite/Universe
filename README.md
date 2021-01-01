@@ -1,2 +1,2 @@
 # Universe
-## Universe made using <canvas></canvas>
+## Universe made using Canvas!

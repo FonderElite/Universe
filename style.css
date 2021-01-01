@@ -1,0 +1,37 @@
+#button{
+    text-align: center;
+    color:white;
+    background-color: #000;
+    font-size: 15px;
+    padding: 10px 15px;
+    position: absolute ;
+    left: 15%;
+    top: 65%;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-family: 'monoton';
+    
+}
+body{
+background-color: black;
+}
+*{
+    color: white;
+    font-size: 20px;
+}
+#animation{
+    position: absolute ;
+    top: 79%;
+    left: 0%;
+    text-shadow: 1px 2px 2px grey;
+    font-size: 25px;
+    font-family: 'bungee shade';
+}
+#sike{
+    position: absolute ;
+    top: 78%;
+    left: 23%;
+    font-family:"Monoton";
+    font-size: 55px;
+    color: red;
+}
